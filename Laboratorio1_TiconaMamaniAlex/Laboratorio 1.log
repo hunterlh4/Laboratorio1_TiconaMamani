@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  20 APR 2021 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  21 APR 2021 17:57
 entering extended mode
 **"./Laboratorio 1.tex"
 (Laboratorio 1.tex
@@ -627,7 +627,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  4248 strings out of 479334
- 58435 string characters out of 2866963
+ 58519 string characters out of 2866963
  369449 words of memory out of 3000000
  21646 multiletter control sequences out of 15000+200000
  405598 words of font info for 34 fonts, out of 3000000 for 9000
@@ -635,7 +635,7 @@ Here is how much of TeX's memory you used:
  68i,6n,74p,590b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "Laboratorio 1.pdf" (20 pages, 2151864 bytes).
+Output written on "Laboratorio 1.pdf" (20 pages, 2151319 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
